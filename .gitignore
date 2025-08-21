@@ -1,6 +1,9 @@
 # weights
 yolov8m.pt
 
+# folders
+notebooks/
+tests/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

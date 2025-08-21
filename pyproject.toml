@@ -1,0 +1,7 @@
+[project]
+name = "realtime-info-gathering"
+version = "0.1.0"
+description = "Project for monitoring the system that uses 3 local cameras, deepstream and kafka"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
